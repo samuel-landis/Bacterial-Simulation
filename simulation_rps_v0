@@ -3,12 +3,6 @@ Created on Sat Dec 30 00:02:12 2023
 
 @author: samuel
 """
-
-"""
-title: Pixel Simulation
-This is a little simulation I made that simulates bacteria in a petri dish
-It was inspired by https://www.quantamagazine.org/biodiversity-may-thrive-through-games-of-rock-paper-scissors-20200305/
-"""
  
 #---------------------------------libraries------------------------------------
 from random import randint
