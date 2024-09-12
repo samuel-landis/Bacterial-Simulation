@@ -1,10 +1,4 @@
-"""
-Created on Sat Dec 30 00:02:12 2023
-
-@author: samuel
-"""
- 
-#---------------------------------libraries------------------------------------
+ #---------------------------------libraries------------------------------------
 from random import randint
 import sys, pygame
 import matplotlib.pyplot as plt
@@ -132,6 +126,7 @@ def run():
 
        
 #---------------------------------main-code-----------------------------------
+
 graphing = True
 displaying = True
 printing = True
